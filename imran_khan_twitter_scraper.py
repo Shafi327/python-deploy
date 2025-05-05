@@ -4,7 +4,7 @@ from datetime import datetime
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
-# === CONFIGURATION ===
+# === CONFIGURATION 
 user = "ImranKhanPTI"
 hashtag = "#imrankhan"
 since_date = "2025-04-01"
